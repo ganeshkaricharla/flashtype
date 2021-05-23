@@ -1,6 +1,7 @@
 {
   "name": "flashtype",
   "version": "0.1.0",
+  "homepage": "https://ganeshkaricharla.github.io/flashtype",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
@@ -9,6 +10,7 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
+    "typewriter-effect": "^2.17.0",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
@@ -34,5 +36,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }

@@ -1,0 +1,26 @@
+.nav-container {
+    display: flex;
+    height:50px;
+    align-items: center;
+    background: cadetblue;
+    margin: 0;
+}
+
+.nav-left {
+    display: flex;
+    align-items: center;
+}
+
+.flash-logo
+{
+    margin-left: 20px;
+    height: 20px;
+}
+.flash-logo-text{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    letter-spacing: 1px;
+    margin: 0 10px;
+    color: white;
+    font-weight: 900;
+}
